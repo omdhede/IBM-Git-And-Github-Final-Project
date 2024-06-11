@@ -1,16 +1,5 @@
 # IBM-Git-And-Github-Final-Project
 
-# LogisticsShippingRates
-Please consider the below factors while contributing
-
-Code Style: Maintain a consistent code style for readability.
-
-Documentation: Ensure well-documented code for effective collaboration.
-
-Testing: Thoroughly test your changes before submitting a pull request.
-
-Issue Tracker: Check the Issue Tracker for tasks.
-
-Code Review: All contributions undergo a code review process.
-
-Licensing: Contributions are licensed.
+# Coursera IBM Full stack software developer course 2, Getting started with Git and Github week 3 final project
+# Authors
+Ala Gowtham Siva Kumar
